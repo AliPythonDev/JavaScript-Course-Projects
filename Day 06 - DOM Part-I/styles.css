@@ -1,0 +1,22 @@
+/* #heading {
+  color: burlywood;
+  background-color: blueviolet;
+}
+.heading2 {
+  background-color: aquamarine;
+}
+body {
+  background-color: pink;
+}
+button {
+  background-color: blue;
+  color: wheat;
+} */
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 5px;
+  text-align: center;
+  background-color: aquamarine;
+}
