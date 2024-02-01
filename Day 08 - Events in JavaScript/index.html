@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Day 08 - Events in JavaScript</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <p>
+      Day 8 is all about events in JavaScript. Learn how to capture and handle
+      user interactions, making your web applications responsive and
+      interactive. Dive into event-driven programming and discover the magic of
+      JavaScript events.
+    </p>
+    <button
+      id="btn1"
+      onclick="console.log('button was clicked'); alert('hey there')"
+    >
+      click me
+    </button>
+    <!-- <button
+      ondblclick="console.log('button was clicked twice'); alert('hey there')"
+    >
+      click me 2 times
+    </button> -->
+    <!-- <div onmouseover="console.log('you are inside div')">This is a box</div> -->
+    <!-- Inside event handling, but event handling inside div is v.bulky. So instead of html we will handling the event in JS -->
+    <div id="box">This is a box</div>
+    <button id="mode">Change mode</button>
+    <script src="script.js"></script>
+  </body>
+</html>
