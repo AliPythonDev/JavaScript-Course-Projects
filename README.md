@@ -26,12 +26,12 @@ Feel free to navigate to the respective folders to explore the projects.
 
 Each project folder contains its own README with instructions on how to set up and run the project. Follow the guidelines to enhance your learning experience.
 
-## Contributing
+## Contribution Guidelines
 
-We welcome contributions! If you have ideas for improvements or want to add new projects, please follow the [contribution guidelines](CONTRIBUTING.md).
+We appreciate contributions. For ideas, improvements, or new projects, kindly reach out via email at AliPythonDev@gmail.com.
 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for your own learning and projects.
 
-Happy coding! 🚀
+Happy coding!
